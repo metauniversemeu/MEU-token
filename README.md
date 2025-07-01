@@ -36,8 +36,8 @@ Official Links
 ✖️ X (Twitter): https://x.com/metauniversemeu
 
 📊 DexScreener: (https://dexscreener.com/ethereum/0x7a1ea6b3b1089c720999dd3f20f43fa6132983fe)
-Whitepaper and Roadmap MEU (IPFS Pinata): [
-](https://crimson-additional-asp-564.mypinata.cloud/ipfs/bafybeib6w7ramdbj2ufr3gpddoeeesfus7vjkrwald4xxnc2o2pvchuxfu)
+Whitepaper and Roadmap MEU (IPFS Pinata): 
+(https://crimson-additional-asp-564.mypinata.cloud/ipfs/bafybeib6w7ramdbj2ufr3gpddoeeesfus7vjkrwald4xxnc2o2pvchuxfu)
 
 For any contact or inquiries: info@metauniversemeu.com
 ✅ You are free to use MEU — but always with responsibility, honesty, and transparency.
