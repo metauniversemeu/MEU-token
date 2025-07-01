@@ -17,7 +17,7 @@ A first wave of small holders joined organically after confirming that everythin
 Tokenomics
 Total Supply: 1,000,000 MEU
 
-Liquidity Pool: Uniswap V3 (ETH/MEU)
+Liquidity Pool: Uniswap V2 (ETH/MEU)
 
 Creator Wallet: 0x442bEF946DF830ea8f578aa9247bD712f5b70B3e
 
@@ -35,7 +35,6 @@ Official Links
 
 ✖️ X (Twitter): https://x.com/metauniversemeu
 
-📊 DexScreener: https://dexscreener.com/ethereum/0xc34738e516c8f7224b1cbd12515eac752099375d
-
+📊 DexScreener: (https://dexscreener.com/ethereum/0x7a1ea6b3b1089c720999dd3f20f43fa6132983fe)
 For any contact or inquiries: info@metauniversemeu.com
 ✅ You are free to use MEU — but always with responsibility, honesty, and transparency.
